@@ -1,0 +1,12 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "AI Маркетолог",
+  "name_for_model": "ai_marketolog",
+  "description_for_human": "Платформа из 20 AI-промптов для автоматизации маркетинга, продаж и аналитики. Система 1=10.",
+  "description_for_model": "AI marketing automation platform with 20 prompt templates covering content creation, repurposing, sales, analytics and operations. System 1=10 methodology where one person does the work of 10 specialists using cascading prompt chains.",
+  "auth": { "type": "none" },
+  "api": { "type": "openapi", "url": "https://ai-marketolog.vercel.app/openapi.json" },
+  "logo_url": "https://ai-marketolog.vercel.app/logo.png",
+  "contact_email": "keml00@telegram",
+  "legal_info_url": "https://ai-marketolog.vercel.app/"
+}
